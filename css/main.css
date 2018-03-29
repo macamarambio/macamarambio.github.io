@@ -145,6 +145,7 @@ h6, .h06 {
   line-height: 1.85;
   text-transform: uppercase;
   letter-spacing: .2rem;
+  color: #FFF;
 }
 
 p img {
@@ -2559,10 +2560,10 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: white;
 }
 #contact .section-intro h3 {
-  color: rgba(242, 242, 242, 0.5);
+  color: #FFF;
 }
 #contact .section-intro p.lead {
-  color: rgba(242, 242, 242, 0.4);
+  color: #FFF;
 }
 
 .contact-content {
@@ -2577,8 +2578,11 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   margin-bottom: 5.4rem;
 }
 .contact-content h6 {
-  color: #9C9E9E;
+  color: #FFF;
   font-size: 1.4rem;
+}
+.contact-content p{
+  color: #FFF;
 }
 
 /* contact info */
